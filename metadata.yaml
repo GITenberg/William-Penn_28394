@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33306'
     url: http://www.gutenberg.org/2009/agents/33306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28394#William-Penn
 gutenberg_issued: '2009-03-24'
 gutenberg_type: Text
 identifiers:
